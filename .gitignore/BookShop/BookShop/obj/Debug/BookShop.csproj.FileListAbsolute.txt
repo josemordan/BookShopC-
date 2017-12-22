@@ -1,0 +1,10 @@
+c:\users\jmordan\documents\visual studio 2012\Projects\BookShop\BookShop\bin\Debug\BookShop.exe.config
+c:\users\jmordan\documents\visual studio 2012\Projects\BookShop\BookShop\bin\Debug\BookShop.exe
+c:\users\jmordan\documents\visual studio 2012\Projects\BookShop\BookShop\bin\Debug\BookShop.pdb
+c:\users\jmordan\documents\visual studio 2012\Projects\BookShop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+c:\users\jmordan\documents\visual studio 2012\Projects\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
+c:\users\jmordan\documents\visual studio 2012\Projects\BookShop\BookShop\obj\Debug\BookShop.exe
+c:\users\jmordan\documents\visual studio 2012\Projects\BookShop\BookShop\obj\Debug\BookShop.pdb
+c:\users\jmordan\documents\visual studio 2012\Projects\BookShop\BookShop\obj\Debug\BookShop.Register.resources
+c:\users\jmordan\documents\visual studio 2012\Projects\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+C:\Users\JMordan\Documents\Visual Studio 2012\Projects\BookShop\BookShop\obj\Debug\BookShop.Views.Login.resources
